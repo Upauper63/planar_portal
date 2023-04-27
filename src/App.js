@@ -1,5 +1,5 @@
 import PlaneChase from "./planechase.json";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 
 function App() {
 	// 配列をランダムな順に並び替え
